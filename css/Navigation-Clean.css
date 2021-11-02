@@ -42,10 +42,11 @@
 }
 
 .navigation-clean.navbar-light .navbar-nav .nav-link.active, .navigation-clean.navbar-light .navbar-nav .nav-link.active:focus, .navigation-clean.navbar-light .navbar-nav .nav-link.active:hover {
-  color: #8f8f8f;
+  color: #FF3D00;
   box-shadow: none;
   background: none;
   pointer-events: none;
+  font-weight: bold;
 }
 
 .navigation-clean.navbar .navbar-nav .nav-link {
@@ -54,11 +55,11 @@
 }
 
 .navigation-clean.navbar-light .navbar-nav .nav-link {
-  color: #465765;
+  color: black;
 }
 
 .navigation-clean.navbar-light .navbar-nav .nav-link:focus, .navigation-clean.navbar-light .navbar-nav .nav-link:hover {
-  color: #37434d !important;
+  color: #FF3D00 !important;
   background-color: transparent;
 }
 
@@ -78,4 +79,3 @@
   background: #eee;
   color: inherit;
 }
-
